@@ -36,7 +36,7 @@ Built with **Flutter**, **Riverpod**, and **Hive** (offline-first, clean archite
 ![Login](screenshots/login.jpeg)
 
 ### Orders List
-![Orders List](screenshots/orders_list.jpeg)
+![Orders List](screenshots/OrdersList.jpeg)
 
 ### Order Details
 ![Order Details](screenshots/order_details.jpeg)
