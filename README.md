@@ -42,7 +42,7 @@ Built with **Flutter**, **Riverpod**, and **Hive** (offline-first, clean archite
 ![Order Details](screenshots/OrderDetails.jpeg)
 
 ### Offline Mode
-![Offline](screenshots/offline.jpeg)
+![Offline](screenshots/OfflineMode.jpeg)
 
 ### New Order
 ![New Order](screenshots/newOrder.jpeg)
