@@ -152,7 +152,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                                               );
                                         },
                                   style: ElevatedButton.styleFrom(
-                                    backgroundColor: Colors.deepPurpleAccent,
+                                    backgroundColor: Colors.red,
                                     padding: const EdgeInsets.symmetric(
                                       vertical: 16,
                                     ),
